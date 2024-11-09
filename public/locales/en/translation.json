@@ -1,0 +1,18 @@
+{
+  "home": "Home",
+  "map": "Map",
+  "item_per_page":"Items per page",
+  "previous":"Previous",
+  "next": "Next",
+  "filters": "Filters",
+  "start_date":"Start Date",
+  "end_date":"End Date",
+  "name":"Name",
+  "image_type":"Type",
+  "choose_option":"Choose an option",
+  "image":"Image",
+  "video":"Video",
+  "search":"Search",
+  "list_items":"List of Items",
+  "find_location":"Find Location"
+}
